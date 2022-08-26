@@ -1,4 +1,4 @@
-# PopUpView
+# PopPageUp
 Simple script that if saved in a bookmark, when opened, creates a new window with minimal borders, like a pop-up embedded view of the current page.
 
 ## How do I use it?
